@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * El verdadero amos por las buenas practicas
 * Trucos muy locos del profesor 
 * Las personalidades múltiples de Freddier
+* Creado por el increible Platzi Team 
 
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo, pero estoy seguro que si tomas el curso tú lo podras hacer mucho mejor, [**te espero aquí**](https://platzi.com/cursos/git-github/ "**te espero aquí**").
